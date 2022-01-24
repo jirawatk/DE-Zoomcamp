@@ -9,10 +9,12 @@ Install Google Cloud SDK. What's the version you have?
 
 To get the version, run `gcloud --version`
 
+```
 Google Cloud SDK 369.0.0
 bq 2.0.72
 core 2022.01.14
 gsutil 5.6
+```
 
 ## Google Cloud account 
 
